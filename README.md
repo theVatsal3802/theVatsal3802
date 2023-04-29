@@ -3,6 +3,9 @@
 ### Quick Bio
 I am a **Flutter developer** with a passion for creating innovative mobile apps and a keen interest in machine learning and quantum computing. With strong skills in Flutter development and a desire to stay at the forefront of the industry, I bring responsive and beautiful designs to life. Always eager to learn and take on new challenges, I strive to push the boundaries of mobile development. I am constantly seeking new opportunities to grow and improve as a developer.
 
+## More Info
+- Flutter Developer Intern at [Xero Apps - Kiranafast](https://www.kiranafast.com/)
+
 <br/>
 
 ## Github Stats  
