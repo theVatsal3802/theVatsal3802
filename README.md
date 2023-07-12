@@ -17,9 +17,6 @@ I am a **Flutter developer** with a passion for creating innovative mobile apps 
   <img width="48" height="48" src="https://img.icons8.com/color/48/css3.png" alt="css3"/>
 </div>  
 
-## More Info
-- Flutter Developer Intern at [Xero Apps - Kiranafast](https://www.kiranafast.com/)
-
 <br/>
 
 ## Github Stats  
