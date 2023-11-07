@@ -22,7 +22,6 @@ I am a **Flutter developer** with a passion for creating innovative mobile apps 
 ## Github Stats  
 <div align="center"> 
 <img width="40%" src="https://github-readme-stats.vercel.app/api?username=theVatsal3802&show_icons=true&theme=dark&hide_border=true" />
-<img width="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=theVatsal3802&theme=dark&hide_border=true" />
 </div>  
 
 <br/>
