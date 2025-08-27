@@ -104,10 +104,6 @@
   <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theVatsal3802&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=theVatsal3802&theme=tokyo-night&hide_border=true" width="100%"/>
-</div>
-
 ---
 
 ## 🌐 Connect & Collaborate
